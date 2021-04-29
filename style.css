@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+}
+
+.wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+button {
+	background-color: black;
+	padding: 5px 15px;
+	margin: 7px;
+	cursor: pointer;
+	outline: none;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
